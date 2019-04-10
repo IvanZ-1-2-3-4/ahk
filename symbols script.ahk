@@ -53,3 +53,7 @@ return
 !^+Right::
 Send, →
 return
+
+!=::
+Send, ≡
+return

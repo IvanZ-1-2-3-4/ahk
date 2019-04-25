@@ -54,6 +54,18 @@ return
 Send, →
 return
 
+!^Right::
+Send, ⇒
+return
+
 !=::
 Send, ≡
+return
+
+!8::
+Send, ⋅
+return
+
+!^8::
+Send, ×
 return

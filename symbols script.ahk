@@ -26,7 +26,7 @@ return
 Send, {Alt down}{Numpad2}{Numpad3}{Numpad5}{Alt up}
 return
 
-!^+d::
+!+^d::
 Send, Δ
 return
 
@@ -36,6 +36,10 @@ return
 
 !^+p::
 Send, π
+return
+
+!+^o::
+Send, Ω
 return
 
 !^+Up::
@@ -68,4 +72,12 @@ return
 
 !^8::
 Send, ×
+return
+
+!^+.::
+Send, •
+return
+
+^8::
+Send, √
 return

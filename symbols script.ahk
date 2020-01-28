@@ -81,3 +81,6 @@ return
 ^8::
 Send, √
 return
+
+!^b::
+Send, β

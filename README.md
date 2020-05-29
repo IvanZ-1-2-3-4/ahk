@@ -1,4 +1,4 @@
-# Some AHK ![](https://i.imgur.com/tjPOPhB.png =100x100) scripts
+# Some AHK ![ss](https://i.imgur.com/tjPOPhB.png =100x100) scripts
 -------------
   
 ### csgo open server browser
